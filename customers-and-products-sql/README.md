@@ -1,5 +1,12 @@
 # Customers and Products Analysis Using SQL
-Open stores.db in DB Browser for SQLite and run Store_Analysis.sql in the Execute SQL tab. The tables below are the results from the supplied database.
+This analysis uses 2,996 order lines to identify restocking priorities and estimate gross profit per purchasing account.
+
+[SQL script](Store_Analysis.sql) · [Portfolio overview](../README.md)
+
+## Run the analysis
+
+Open the `stores.db` database supplied with the [Dataquest guided project](https://www.dataquest.io/projects/guided-project-a-customers-and-products-analysis-using-sql/) in DB Browser for SQLite. Run the full SQL script in the **Execute SQL** tab so the temporary views remain available to subsequent queries.
+
 ## Database overview
 | table_name | columns | rows |
 | --- | --- | --- |
